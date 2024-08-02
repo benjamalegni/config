@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PluginStats>
+  <Plugin type="Lua" id="ff6ac22e149acc3549b9dd80a2c1699d67f3e8e7" lru="1689627614" use-count="1"/>
+  <Plugin type="Lua" id="68af97cac6ea0c2d4a72d60e61e5db73448a7e17" lru="1689627559" use-count="1"/>
+  <Plugin type="LV2" id="urn:ardour:a-fluidsynth" lru="1689627591" use-count="1"/>
+  <Plugin type="LV2" id="https://community.ardour.org/node/7596" lru="1689627090" use-count="1"/>
+</PluginStats>

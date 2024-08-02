@@ -1,0 +1,11 @@
+[Added Associations]
+application/x-shellscript=geany.desktop;
+image/jpeg=mpv.desktop;org.gnome.FileRoller.desktop;gcr-viewer.desktop;
+image/png=mpv.desktop;
+text/x-pascal=geany.desktop;
+
+[Default Applications]
+x-scheme-handler/notion=notion-app.desktop
+image/jpeg=mpv.desktop
+image/png=mpv.desktop
+x-scheme-handler/jetbrains=jetbrains-toolbox.desktop

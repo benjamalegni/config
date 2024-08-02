@@ -1,0 +1,22 @@
+{
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "7.2",
+      "7.4",
+      "6.27"
+    ]
+  },
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "default",
+  "welcome_wizard_was_run": true
+}

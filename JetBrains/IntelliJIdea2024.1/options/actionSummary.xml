@@ -1,0 +1,28 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="4" l="1718653751826" />
+    </e>
+    <e n="GotoClass">
+      <i c="1" l="1718653753364" />
+    </e>
+    <e n="GotoFile">
+      <i c="1" l="1718653756085" />
+    </e>
+    <e n="NewClass">
+      <i c="1" l="1718653763968" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1718653717192" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1718653757087" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1718653759687" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="2" l="1718653727496" />
+    </e>
+  </component>
+</application>
